@@ -1,0 +1,30 @@
+{
+  "name": "caira-marketplace",
+  "owner": {
+    "name": "Pablo Zaiden"
+  },
+  "metadata": {
+    "description": "Marketplace containing the CAIRA Copilot CLI plugin.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "caira-skill-poc",
+      "source": "caira_plugin",
+      "description": "CAIRA dynamic-discovery skill for Azure AI and Azure AI Foundry agent solution development.",
+      "version": "0.3.1",
+      "author": {
+        "name": "Pablo Zaiden"
+      },
+      "repository": "https://github.com/PabloZaiden/caira-skill-poc",
+      "keywords": [
+        "caira",
+        "azure-ai",
+        "azure-ai-foundry",
+        "agents",
+        "copilot-skill"
+      ],
+      "skills": "skills/"
+    }
+  ]
+}

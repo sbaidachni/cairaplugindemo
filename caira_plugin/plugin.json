@@ -1,0 +1,17 @@
+{
+  "name": "caira-skill-poc",
+  "description": "CAIRA dynamic-discovery skill for building Azure AI and Azure AI Foundry agent solutions.",
+  "version": "0.3.1",
+  "author": {
+    "name": "Pablo Zaiden"
+  },
+  "repository": "https://github.com/PabloZaiden/caira-skill-poc",
+  "keywords": [
+    "caira",
+    "azure-ai",
+    "azure-ai-foundry",
+    "agents",
+    "copilot-skill"
+  ],
+  "skills": "skills/"
+}
